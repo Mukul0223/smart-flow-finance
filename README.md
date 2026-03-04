@@ -67,7 +67,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## 📦 Deployment
 
-This app is deployed on Vercel: [Your Live URL Here]
+This app is deployed on Vercel: [https://smart-flow-finance.vercel.app/]
 
 ## 📝 License
 
