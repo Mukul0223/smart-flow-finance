@@ -75,4 +75,4 @@ MIT
 
 ## 👨‍💻 Author
 
-[Your Name]
+Mukul Kumar Yadav
